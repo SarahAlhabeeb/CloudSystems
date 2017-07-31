@@ -38,7 +38,3 @@ layout: home
         <br>
 <hr class="style1">
 <br>
-    
-
-</body>
-</html>
