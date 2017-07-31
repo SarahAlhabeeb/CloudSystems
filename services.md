@@ -13,7 +13,8 @@ permalink: /services/
 </div>
 
 <br>
-<br/>
+<hr class="style1">
+<br>
 
 <div class="boxes">
     <h1>الحلول السحابية</h1>
