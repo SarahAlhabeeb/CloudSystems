@@ -15,7 +15,7 @@ body-class: home-cloud
 
 
 </head>
-<body dir=“rtl”>
+<body>
 
 
 
