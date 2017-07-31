@@ -15,7 +15,7 @@ body-class: home-cloud
 
 
 </head>
-<body>
+<body dir=“rtl”>
 
 
 
@@ -36,21 +36,6 @@ body-class: home-cloud
         <br>
 <hr class="style1">
 <br>
-
-        <h1>عملاؤنا</h1>
-        <img class="logos" src="SA-Positive-Logo-Horizontal-CMYK-copy-Converted.png" alt="aramco">
-        <img class="logos" src="sabic.png" alt="sabic">
-        <img class="logos" src="ahli.png" alt="ahli">
-        <img class="logos" src="bilad.png" alt="bilad">
-
-    </div>
-    <div class="team">
-    <h1>فريقنا</h1>
-        <p>---------</p>
-        <p>---------</p>
-        <p>---------</p>
-        <p>----------</p>
-    </div>
     
 
 </body>
