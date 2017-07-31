@@ -3,19 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-body-class: home-cloud
 ---
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=neckar-bold,neckar" />
-    <link rel="stylesheet" type="text/css" href="headerAndFooter.css">
-
-
-
-</head>
-<body>
 
 
 
@@ -37,6 +26,3 @@ body-class: home-cloud
 <hr class="style1">
 <br>
     
-
-</body>
-</html>
