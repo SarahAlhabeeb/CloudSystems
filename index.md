@@ -8,10 +8,6 @@ layout: home
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=neckar-bold,neckar" />
-    <link rel="stylesheet" type="text/css" href="headerAndFooter.css">
-
-
 
 </head>
 <body>

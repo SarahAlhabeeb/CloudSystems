@@ -12,8 +12,6 @@ permalink: /contact/
 <head>
     <meta charset="UTF-8">
     <title>انظمة غيمة</title>
-    <link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=neckar-bold,neckar" />
-    <link rel="stylesheet" type="text/css" href="headerAndFooter.css">
 
 </head>
 <body>
